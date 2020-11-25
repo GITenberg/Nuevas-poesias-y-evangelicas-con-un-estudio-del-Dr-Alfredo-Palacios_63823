@@ -1,0 +1,43 @@
+_repo: Nuevas-poesias-y-evangelicas-con-un-estudio-del-Dr-Alfredo-Palacios_63823
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Palacios, Alfredo L. (Alfredo Lorenzo)
+    aliases:
+    - Ramon, Alfredo Lorenzo Palacios
+    - Palacios, Alfredo Lorenzo
+    - Ramón, Alfredo Lorenzo Palacios
+    birthdate: 1878
+    deathdate: 1965
+    gutenberg_agent_id: '52615'
+    url: http://www.gutenberg.org/2009/agents/52615
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Alfredo_Palacios
+    - https://en.wikipedia.org/wiki/Alfredo_Palacios
+creator:
+  author:
+    agent_name: Almafuerte
+    alias: Palacios, Pedro Bonifacio
+    birthdate: 1854
+    deathdate: 1917
+    gutenberg_agent_id: '52614'
+    url: http://www.gutenberg.org/2009/agents/52614
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Pedro_Bonifacio_Palacios
+    - https://en.wikipedia.org/wiki/Pedro_Bonifacio_Palacios
+description: ''
+gutenberg_issued: '2020-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63823'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentine literature'
+- !lcsh 'Argentine poetry'
+- !lcc 'PQ'
+- GITenberg
+title: "Nuevas poesías y evangélicas\r\ncon un estudio del Dr. Alfredo Palacios"
+url: http://www.gutenberg.org/ebooks/63823
