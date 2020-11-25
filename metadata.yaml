@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://es.wikipedia.org/wiki/Alfredo_Palacios
     - https://en.wikipedia.org/wiki/Alfredo_Palacios
+covers:
+- cover_type: archival
+  image_path: 63823-h/images/cover.jpg
 creator:
   author:
     agent_name: Almafuerte
@@ -26,6 +29,8 @@ creator:
     - https://es.wikipedia.org/wiki/Pedro_Bonifacio_Palacios
     - https://en.wikipedia.org/wiki/Pedro_Bonifacio_Palacios
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63823#Nuevas-poesias-y-evangelicas-con-un-estudio-del-Dr-Alfredo-Palacios
 gutenberg_issued: '2020-11-20'
 gutenberg_type: Text
 identifiers:
